@@ -1,2 +1,9 @@
-# configuracao-de-base-adonisjs
-Configuração básica para inicio de projetos
+# Adonis API application
+
+- Mail;
+- Validator;
+- WebSocket;
+- Adonis-acl;
+- Adonis-bumblebee;
+- Debug Application in vscode
+
